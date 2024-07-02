@@ -1,0 +1,10 @@
+[server]
+port = 8050
+maxUploadSize = 5000
+enableWebsocketCompression= false
+enableXsrfProtection = false
+
+[browser]
+serverPort = 8050
+serverAddress = "localhost"
+
